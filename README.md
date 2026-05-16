@@ -125,4 +125,3 @@ Core application logic is implemented in:
 
 Built by Vaishnavi 
 
-If you're building projects like this in final year, don't just upload random code and disappear. Add screenshots, deployment links, proper commits, and clean documentation. That's what makes recruiters take the project seriously.
